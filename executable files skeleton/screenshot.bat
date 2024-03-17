@@ -1,0 +1,1 @@
+wscript.exe <invisible.vbs full file path> <exe.bat full file path>
