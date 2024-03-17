@@ -1,10 +1,11 @@
 # Project Name: Discord Bot
 ## Author: Daniel Palmer
 ### Date: 3/17/24
+### Description: A python script that takes a screenshot of your screen and uses a webhook to send the screenshot to a discord server. The instructions below can help set the script to run automatically.
 
 
 Prerequisites: <br>
-     - Python installation (version 3.12 recommended). This can be checked by running command prompt and typing 'python --version' <br>
+     - Python installation (version 3.12 recommended). This can be checked by running the command prompt and typing 'python --version' <br>
 
 1. Create a Discord Webhook: <br>
     a. Go to your discord server and generate a webhook. <br>
